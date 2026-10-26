@@ -12,9 +12,17 @@ GUST is a full-featured web proxy that lives entirely inside a single HTML file,
 
 ---
 
-## What is NautilusOS
+## What is NautilusOS?
 
 NautilusOS is a web-based operating system built entirely in HTML, CSS, and JS. Boot it up, log in, and mess around like it’s a real desktop with proxies, games, apps, an app store, windows, a file explorer, taskbar, and more.
+
+---
+
+## Changes
+
+I changed the GUST tab to look like Canvas because "GUST browser" with that favicon is not very inconspicuous.
+
+Then I said screw it to this fork and added NautilusOS to it. The NautilusOS tab has also been changed to look like Canvas and you can now download GUST in the App Store.
 
 ---
 
