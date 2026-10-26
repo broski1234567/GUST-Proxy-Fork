@@ -24,6 +24,8 @@ I changed the GUST tab to look like Canvas because "GUST browser" with that favi
 
 Then I said screw it to this fork and added NautilusOS to it. The NautilusOS tab has also been changed to look like Canvas and you can now download GUST in the App Store.
 
+FYI if you want to use the GUSt for NautilusOS it is best to download the entire zip file, other wise the GUST will not work.
+
 ---
 
 <div align="center">
